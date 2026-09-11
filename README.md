@@ -11,7 +11,7 @@ Users can capture or upload a tomato leaf image, analyze it using the trained CN
 ## 📱 Application Preview
 
 <p align="center">
-  <img src="docs/screenshots/app-preview.png" width="100%" alt="My Tomato Doc Application Preview">
+  <img src="my-tomato-doc.png" width="100%" alt="My Tomato Doc Application Preview">
 </p>
 
 > **My Tomato Doc** provides an end-to-end workflow from capturing a tomato leaf image to AI-powered disease detection and plant-care guidance.

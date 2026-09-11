@@ -1,7 +1,5 @@
 # 🍅 My Tomato Doc — Tomato Disease Detection
-<p align="center">
-  <img src="docs/preview/my-tomato-doc.png" width="100%" alt="My Tomato Doc Application Preview">
-</p>
+
 **My Tomato Doc** is an AI-powered tomato plant disease detection application that uses a **Convolutional Neural Network (CNN)** to identify tomato leaf diseases from images.
 
 The project combines a **TensorFlow/Keras deep learning model**, **FastAPI REST API**, and a **Flutter mobile application** to provide an end-to-end disease detection experience.
